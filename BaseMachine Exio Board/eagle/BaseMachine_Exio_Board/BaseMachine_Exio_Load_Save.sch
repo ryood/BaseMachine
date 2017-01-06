@@ -697,10 +697,6 @@ DIN A4, landscape with location and doc. field</description>
 <junction x="190.5" y="81.28"/>
 <pinref part="JP1" gate="A" pin="9"/>
 <label x="78.74" y="83.82" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="N$9" class="0">
-<segment>
 <pinref part="SW5" gate="G$1" pin="S@1"/>
 <wire x1="170.18" y1="104.14" x2="172.72" y2="104.14" width="0.1524" layer="91"/>
 </segment>
